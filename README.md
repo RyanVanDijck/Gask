@@ -26,7 +26,7 @@ For now, this software can only be installed using pip.
 
 You can install the it using the command
 
-`pip install gask`
+`pip install Gask`
 
 ## Basic Usage
 

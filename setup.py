@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='gask',
-    version='0.0.1',
+    name='Gask',
+    version='0.2',
     packages=find_packages(),
     #package_dir={'': 'gask'},
     url='https://github.com/RyanVanDijck/Gask',

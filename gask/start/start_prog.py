@@ -8,10 +8,8 @@ from gask.taskutils.import_taskspace import import_taskspace
 def first_check():
     """Checks to see if a task space exists."""
 
-    if len(sys.argv) > 1:
-        if sys.argv[1].lower().strip() == "import":
-            import_taskspace()
-
+    if len(sys.argv) > 1 and sys.argv[1].lower().strip() == "import":
+        import_taskspace()
     # If repos.json is not found
     elif "repos.json" not in os.listdir(get_top_directory()) or open(get_repos_path()).read().strip() == "":
 
