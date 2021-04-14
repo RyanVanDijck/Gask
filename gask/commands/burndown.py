@@ -42,7 +42,7 @@ def burndown():
     plot.xticks(range(len(labels)), labels)
     plot.bar(range(len(tasks_done)), tasks_done)
     plot.bar(range(len(tasks_undone)), tasks_undone, bottom=tasks_done)
-    plot.legend(("Completed", "Pending"))
+    plot.legend(("Pending", "Completed"))
 
     # Making the graph visible
     plot.show()
