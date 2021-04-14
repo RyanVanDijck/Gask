@@ -1,7 +1,0 @@
-gitpython
-terminaltables
-termcolor
-pick
-
-[burndown]
-matplotlib
