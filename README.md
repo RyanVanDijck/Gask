@@ -2,11 +2,11 @@
 
 ## Technical documentation
 
-* [Commands](gask/commands/commands.md)
-* [FileUtils](gask/fileutils/fileutils.md)
-* [GitTools](gask/gittools/gittools.md)
-* [Start](gask/start/start.md)
-* [TaskUtils](gask/taskutils/taskutils.md)
+* [Commands](https://github.com/RyanVanDijck/Gask/blob/main/gask/commands/commands.md)
+* [FileUtils](https://github.com/RyanVanDijck/Gask/blob/main/gask/fileutils/fileutils.md)
+* [GitTools](https://github.com/RyanVanDijck/Gask/blob/main/gask/gittools/gittools.md)
+* [Start](https://github.com/RyanVanDijck/Gask/blob/main/gask/start/start.md)
+* [TaskUtils](https://github.com/RyanVanDijck/Gask/blob/main/gask/taskutils/taskutils.md)
 
 ## Concept 
 The idea of this project is to create a terminal task manager 
