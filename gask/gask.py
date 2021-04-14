@@ -1,7 +1,4 @@
-try:
-    from gask.start.start_prog import first_check
-except ImportError:
-    from start.start_prog import first_check
+from gask.start.start_prog import first_check
 
 
 def main():

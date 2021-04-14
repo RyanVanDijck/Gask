@@ -7,10 +7,10 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='Gask',
-    version='0.3',
+    version='0.4',
     packages=find_packages(),
     long_description=long_description,
-    long_description_content_type='text/markdown'
+    long_description_content_type='text/markdown',
     url='https://github.com/RyanVanDijck/Gask',
     license='GNU General Public License v3',
     author='ryan',

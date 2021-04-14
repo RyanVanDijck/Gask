@@ -45,4 +45,4 @@ You can mark a task as complete using:
 
 `gask complete`
 
-For more information about commands, check [here](gask/commands/commands.md).
+For more information about commands, check [here](https://github.com/RyanVanDijck/Gask/blob/main/gask/commands/commands.md).
