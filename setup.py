@@ -16,7 +16,6 @@ setup(
     },
     install_requires=['gitpython',
                       'terminaltables',
-                      'termcolor',
                       'pick'],
     extras_require={
         'burndown': ['matplotlib'],
