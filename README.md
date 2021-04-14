@@ -1,4 +1,7 @@
-# Gask 
+# Gask
+
+.. image:: https://img.shields.io/pypi/v/Gask.svg
+        :target: https://pypi.python.org/pypi/Gask
 
 ## Technical documentation
 
