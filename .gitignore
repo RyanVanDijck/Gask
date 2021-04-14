@@ -15,3 +15,7 @@ repos.json
 
 #Obsidian
 *.obsidian
+
+#pypi
+*dist
+*Gask.egg-info
